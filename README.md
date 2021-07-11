@@ -46,17 +46,17 @@ Thomas High Schools relative performance to other schools were mostly unchanged 
 
 ### How does replacing the ninth-grade scores affect the following:
 
-    - *Math and reading scores by grade*
-    The only change here was that the 9th grade scores for Thomas High School were turned to nan due to their removal.
+- *Math and reading scores by grade*
+The only change here was that the 9th grade scores for Thomas High School were turned to nan due to their removal.
     
-    - *Scores by school spending*
-    Thomas High School is in the $630-644 spending bin, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
+- *Scores by school spending*
+Thomas High School is in the $630-644 spending bin, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
     
-    - *Scores by school size*
-    Thomas High School is in the Medium (1000-2000) size bin, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
+- *Scores by school size*
+Thomas High School is in the Medium (1000-2000) size bin, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
     
-    - *Scores by school type*
-    Thomas High School is a charter school, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
+- *Scores by school type*
+Thomas High School is a charter school, and there wasn't really any changes greater than 0.1% to any area of the chart. The change was a decrease just like the other criteria, but the decrease was far less drastic and not shown after the formatting of the chart.
 
 ## Summary
 
