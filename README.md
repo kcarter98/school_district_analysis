@@ -32,7 +32,7 @@ The school summary chart was only changed in the row providing information regar
 
 ![Image4](/Resources/School_Summary_Challenge.PNG)
 
-3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 Thomas High Schools relative performance to other schools were mostly unchanged after removing their ninth graders math and reading scores. They remained to be second in the district by overall passing percentage.
 
