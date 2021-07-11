@@ -8,7 +8,7 @@ The school board has been notified that the nonth grade math and reading scores 
 
 **This analysis provides results to the following queries:**
 
-1. **How is the district summary affected?**
+### How is the district summary affected?
 
 The district summary was slightly lowered when the altered grades were removed. When these grades were removed, the overall passing percentage went down by 0.3%, and the math and reading score also went down by 0.1-0.2%.
 
@@ -20,7 +20,7 @@ The district summary was slightly lowered when the altered grades were removed. 
 
 ![Image2](/Resources/District_Summary_Challenge.PNG)
 
-2. **How is the school summary affected**
+### How is the school summary affected
 
 The school summary chart was only changed in the row providing information regarding Thomas High School. As you can see below, their passing percentages in terms of math, reading, and overall passing fell by 0.1-0.3% in each area.
 
@@ -32,7 +32,7 @@ The school summary chart was only changed in the row providing information regar
 
 ![Image4](/Resources/School_Summary_Challenge.PNG)
 
-3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Thomas High Schools relative performance to other schools were mostly unchanged after removing their ninth graders math and reading scores. They remained to be second in the district by overall passing percentage.
 
@@ -44,7 +44,7 @@ Thomas High Schools relative performance to other schools were mostly unchanged 
 
 ![Image6](/Resources/Top_Schools_Challenge.PNG)
 
-4. **How does replacing the ninth-grade scores affect the following:**
+### How does replacing the ninth-grade scores affect the following:
 
     - *Math and reading scores by grade*
     The only change here was that the 9th grade scores for Thomas High School were turned to nan due to their removal.
